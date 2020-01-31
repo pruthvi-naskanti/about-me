@@ -12,3 +12,11 @@ This repo will be helpful in understanding the flow of Git commits(Clone, Add, P
 
 ## Recommended Tools
 
+1. GitHub Account
+2. Visual Studio Code
+3. TortiseGit/Git Bash
+4. Putty
+
+## Recommended Resources
+
+1. 
