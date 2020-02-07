@@ -3,8 +3,8 @@ I'm Pruthvi Naskanti, Student of Applied Computer Science at Northwest Missouri 
 
 ## Repository Links
 
-* Repository Source
-* Hosted Page
+* [Repository Source](https://github.com/pruthvi-naskanti/about-me)
+* [Hosted Page](https://pruthvi-naskanti.github.io/about-me/)
 
 ## About
 
